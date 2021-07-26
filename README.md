@@ -1,3 +1,3 @@
 # Web-Design-Challenge!
 
-![Screenshot](Cloudiness.png)
+![Screenshot](Final_Output_Images/Cloudiness.png)
